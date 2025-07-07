@@ -56,17 +56,6 @@ const developer = {
 
 </div>
 
-## 🎼 Latest Compositions (Projects) 🎼
-
-<div align="center">
-  <a href="https://github.com/Sirius-ashwak/Blog-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sirius-ashwak&repo=Blog-Website&theme=radical&bg_color=0D1117&title_color=E67E22&text_color=FFF&icon_color=E67E22&border_color=E67E22" alt="Blog Website" />
-  </a>
-  <a href="https://github.com/Sirius-ashwak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sirius-ashwak&repo=YOUR_OTHER_PROJECT&theme=radical&bg_color=0D1117&title_color=E67E22&text_color=FFF&icon_color=E67E22&border_color=E67E22" alt="Another Project" />
-  </a>
-</div>
-
 ## 🎸 GitHub Activity - My Daily Practice 🎸
 
 <div align="center">
