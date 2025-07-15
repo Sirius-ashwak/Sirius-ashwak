@@ -12,9 +12,9 @@
 
 ```javascript
 const developer = {
-  name: "Mohamed Ashwak M",
+  name: "Sirius",
   role: "Aspiring MERN Stack Developer",
-  education: "CSE Student",
+  education: "Student",
   location: "🌍 Earth",
   instruments: ["🎸 Guitar", "⌨️ Keyboard", "🖱️ Mouse"],
   languages: ["JavaScript", "React", "Node.js", "MongoDB", "HTML/CSS"],
